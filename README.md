@@ -14,12 +14,8 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  
+    
   <br/>
-  
-  <!-- Develope Tool -->
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  
   <br/>
   <br/>
   
@@ -30,11 +26,17 @@
     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   </p>
   
   <br/>
    
   <!-- My Apps -->
-  ## 💙 My Apps 💙
+  ## 💙 About Me 💙
+<p align="center">
+  <a href="https://yangseon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat&logo=Tistory&logoColor=white&link=https://yangseon.tistory.com/"/></a>&nbsp
+  <a href="https://www.instagram.com/yangseon3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yangseon3/"/></a>&nbsp
+</p> 
  
-   </div>
+</div>
