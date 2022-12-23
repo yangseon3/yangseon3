@@ -41,4 +41,8 @@
   <a href="https://www.instagram.com/yangseon3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yangseon3/"/></a>&nbsp
 </p> 
  
+ ![yangseon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangseon3&show_icons=true&theme=gruvbox)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseon3)](https://github.com/yangseon3/github-readme-stats)
+
+ 
 </div>
