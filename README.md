@@ -43,9 +43,8 @@
  
  </br>
   
-  ![yangseon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangseon3&show_icons=true&theme=gruvbox)
+  ![yangseon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangseon3&show_icons=true&theme=highcontrast)
   </br>
   </br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseon3)](https://github.com/yangseon3/github-readme-stats)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseon3&layout=compact&theme=highcontrast)](https://github.com/yangseon3/github-readme-stats) 
 </div>
