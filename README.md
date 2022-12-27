@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -44,6 +44,8 @@
  </br>
   
   ![yangseon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangseon3&show_icons=true&theme=gruvbox)
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseon3)](https://github.com/yangseon3/github-readme-stats) -->
+  </br>
+  </br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseon3)](https://github.com/yangseon3/github-readme-stats)
   
 </div>
