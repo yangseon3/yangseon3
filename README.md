@@ -6,7 +6,7 @@
   <br/>
  
   <!-- Badge -->
-  ## 🦋 Tech Stack 🦋
+  ## ⚒️ Tech Stack ⚒️
   Techs that I've used at least once
   
   <!-- Language -->
@@ -23,7 +23,7 @@
   <br/>
   <br/>
   
-  ## 🐬 Cowork Tools 🐬
+  ## 🔱 Cowork Tools 🔱
   <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
