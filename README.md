@@ -35,14 +35,7 @@
   </p>
   
   <br/>
-   
-  <!-- My Apps -->
-  ## 💙 About Me 💙
-<p align="center">
-  <a href="https://yangseon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat&logo=Tistory&logoColor=white&link=https://yangseon.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/yangseon3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yangseon3/"/></a>&nbsp
-</p> 
- 
+
  </br>
   
   ![yangseon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangseon3&show_icons=true&theme=highcontrast)
