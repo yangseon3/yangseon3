@@ -33,13 +33,3 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   </p>
-  
-  <br/>
-
- </br>
-  
-  ![yangseon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangseon3&show_icons=true&theme=highcontrast)
-  </br>
-  </br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangseon3&layout=compact&theme=highcontrast)](https://github.com/yangseon3/github-readme-stats) 
-</div> 
